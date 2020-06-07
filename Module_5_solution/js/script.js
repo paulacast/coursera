@@ -275,4 +275,4 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
     global.$dc = dc;
 
-})(window)
+})(window);
